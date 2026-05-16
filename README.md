@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jochona-roder-moto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Jochona Roder Moto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jochona-roder-moto/) |
+| **Get License** | [Commercial Licensing for Jochona Roder Moto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jochona-roder-moto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> জ্যোৎস্না রোদের মতো তুমি এলে জীবনে
+> অন্ধকার নিভে যায় তোমার এই মিলনে
+> (হারিয়ে যাই) রূপকথার সেই মায়াবী রাতে
+> আঁধারে আলো হয়ে থাকো আমার সাথে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
